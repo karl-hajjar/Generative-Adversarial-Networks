@@ -11,4 +11,4 @@ function used in the Cycle GAN paper to implement the Wasserstein loss and compa
 
 We used the Pytorch implementation of Cycle-GANS which can be found here : https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix, 
 and only modified the file models.py in order to add a WGAN model which we implemented in the cycle_wgan_model.py file. Those two
-contributions can be found in the Code folder of this repository. 
+contributions can be found in the repository. 
