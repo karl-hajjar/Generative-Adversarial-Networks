@@ -1,7 +1,7 @@
 # Generative-Adversarial-Networks
-This repository is the result of a project I did for my Master's Computer Vision & Object Recognition class on Generative Adversarial Networks. The aim of the project was to study in depth Cycle consistent Generative Adversarial Networks. 
+This repository is the result of a project I did on Generative Adversarial Networks for my Master's Computer Vision & Object Recognition class . The aim of the project was to study in depth Cycle consistent Generative Adversarial Networks. 
 
-This work was mainly based on the original article https://arxiv.org/pdf/1703.10593.pdf on Cycle consistent GANs. First, we 
+This work was mainly based on the original article on Cycle consistent GANs : https://arxiv.org/pdf/1703.10593.pdf. First, we 
 reproduced some of the results presented in the article, transfering photos to Monet paintings and vice-versa, also trying out 
 the algorithm on some holiday pictures. An experiment was also carried out on a new dataset, trying to perform style transfer from day to night using photos of roads taken from a car. 
 
